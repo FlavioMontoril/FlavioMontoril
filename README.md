@@ -2,7 +2,7 @@
 
 <p align="left">
   Analista e Desenvolvedor de Sistemas em formação, comprometido em melhorar minhas habilidades, tanto no desenvolvimento quanto no entendimento das melhores práticas de design de software e performance, em busca de desenvolver soluções criativas e escaláveis. <br>
-Tenho direcionado meus estudos para <strong>Reactjs</strong> e <strong>Reactnative</strong>, buscando aplicar o conhecimento adquirido em projetos práticos que contribuam para minha evolução na área de Desenvolvimento de Sistemas.<br>
+Tenho direcionado meus estudos para <strong>Reactjs</strong>, <strong>Reactnative</strong>, <strong>Nodejs</strong> e <strong>SQL</strong>, buscando aplicar o conhecimento adquirido em projetos práticos que contribuam para minha evolução na área de Desenvolvimento de Sistemas.<br>
   <br>
   Atualmente, também estou expandindo meus estudos para o <strong>backend</strong> utilizando <strong>Node.js</strong> e <strong>TypeScript</strong>, integrando Banco de Dados relacional e criando APIs escaláveis.
 </p>
