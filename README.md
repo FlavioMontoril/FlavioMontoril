@@ -23,7 +23,7 @@ Tenho direcionado meus estudos para <strong>Reactjs</strong>, <strong>Reactnativ
 </div>
 
 ## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,github,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,github,mysql,nodejs,prisma)](https://skillicons.dev)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/flavio-montoril-76b1b1255/" title="LinkedIn">
