@@ -12,7 +12,7 @@ Tenho direcionado meus estudos para <strong>Reactjs</strong> e <strong>Reactnati
 - 💻 Estagiário em Desenvolvimento de Sistemas Web/front-end
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIFAMETRO
 - 📚 Estudando Reactjs, Reactnative, TypeScript e Javascript
-- 🛠️ Expandindo conhecimentos em backend: criação de APIs com Node.js, TypeScript e bancos de dados relacionais (SQLite)
+- 🛠️ Expandindo conhecimentos em backend: criação de APIs com Node.js, TypeScript, Express, Prisma, Auth JWT, Docker e bancos de dados relacionais(SQL)
 - 🌎 Em busca das melhores práticas de design de software e performance, em busca de desenvolver soluções criativas e escaláveis
 
 ## Estatísticas do GitHub
