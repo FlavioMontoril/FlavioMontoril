@@ -1,7 +1,7 @@
 ## Olá, eu sou Flávio Montoril! 👋
 
 <p align="left">
-  Analista e Desenvolvedor de Sistemas em formação, comprometido em melhorar minhas habilidades, tanto no desenvolvimento quanto no entendimento das melhores práticas de design de software e performance, em busca de desenvolver soluções criativas e escaláveis. <br>
+  Analista e Desenvolvedor de Sistemas formado pela UNIFAMETRO, comprometido em melhorar minhas habilidades, tanto no desenvolvimento quanto no entendimento das melhores práticas de design de software e performance, em busca de desenvolver soluções criativas e escaláveis. <br>
   <br>
   Pós-graduando em: Engenharia de Software | DevOps | Cloud Computing.<br>
   <br>
