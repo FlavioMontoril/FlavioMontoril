@@ -5,7 +5,7 @@
   <br>
   Pós-graduando em: Engenharia de Software | DevOps | Cloud Computing.<br>
   <br>
-  Tenho direcionado meus estudos para <strong>Reactjs</strong>, <strong>Reactnative</strong>, <strong>Nodejs</strong> e <strong>SQL</strong>, buscando aplicar o conhecimento adquirido em projetos práticos que contribuam para minha evolução na área de Desenvolvimento de Sistemas.<br>
+  Tenho direcionado meus estudos para <strong>Reactjs</strong>, <strong>Nextjs</strong>, <strong>Reactnative</strong>, <strong>Nodejs</strong> e <strong>SQL</strong>, buscando aplicar o conhecimento adquirido em projetos práticos que contribuam para minha evolução na área de Desenvolvimento de Sistemas.<br>
   <br>
   Atualmente, também estou expandindo meus estudos para o <strong>backend</strong> utilizando <strong>Node.js</strong>, <strong>Typescript</strong>, <strong>SQL</strong> e <strong>Prisma</strong> como ORM, integrando e persistindo dados em Bancos de Dados relacionais e criando APIs escaláveis.
 </p>
